@@ -12,4 +12,11 @@ This application is build on react + vite
 
 There you go...Explore the application.
 
+-----Packages Used for this application------
+1. math.js
+
+-----------------------------------------
+
+the above package is used to evaluate the mathematical expression.
+
 Thank you for using my application 😉
