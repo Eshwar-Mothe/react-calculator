@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+input{
+  width: 100%;
+  border: none;
+  padding: 1rem .5rem;
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.display{
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+  padding-block: 1rem;
+}
+
+.buttonContainer .row{
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+  justify-content: center;
+  margin-block: .5rem;
+}
+
+button{
+  padding: 1rem 1.5rem;
+  color: #ffffff;
+  background-color: black;
+  border:1px solid gray;
+  border-radius: 10px;
+}
